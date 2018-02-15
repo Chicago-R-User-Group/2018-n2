@@ -1,6 +1,6 @@
 # [R for Humans, Ensemble Modeling, and Deep learning (with Keras)](https://www.meetup.com/ChicagoRUG/events/247282214/)
 
-Join us for a trio of interesting talks on writing good R code, ensemble modeling in sports analytics & hedge funds, and extending R to Keras. Hosted by IBM, a variety of food and beverage options will be generously provided, so bring your appetite! Doors open at 5:30 and presentations begin at 6, each running about 20 minutes. There will be time for networking and general discussion afterwards.
+**Thursday, February 15:** Join us for a trio of interesting talks on writing good R code, ensemble modeling in sports analytics & hedge funds, and extending R to Keras. Hosted by IBM, a variety of food and beverage options will be generously provided, so bring your appetite! Doors open at **5:30** and presentations begin at **6**, each running about 20 minutes. There will be time for networking and general discussion afterwards.
 
 ## R for humans: Best practices in writing readable & maintainable R code - Peter Hurford
 Peter Hurford is a data engineer with DataRobot. He previously has worked within the advertising and financial technology space. He is a frequent open source developer in R and Python. You can see his work at https://github.com/peterhurford
